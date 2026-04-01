@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Grenade",
+  "base_artist": "Bruno Mars",
+  "createdAt": "2026-04-01T08:18:41.615421Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "The Porpoise and the Hand Grenade",
+      "artist": "Pavement",
+      "has_synced": false,
+      "path": "select/01_The_Porpoise_and_the_Hand_Grenade_Pavement.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Grenade",
+      "artist": "Scott Bradlee's Postmodern Jukebox feat. Brielle Von Hugel",
+      "has_synced": true,
+      "path": "select/02_Grenade_Scott_Bradlee's_Postmodern_Jukebox_feat._Brielle_Von_Hugel.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Grenade",
+      "artist": "Scott Bradlee's Postmodern Jukebox",
+      "has_synced": true,
+      "path": "select/03_Grenade_Scott_Bradlee's_Postmodern_Jukebox.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Grenade - Karaoke",
+      "artist": "Scott Bradlee & Postmodern Jukebox",
+      "has_synced": true,
+      "path": "select/04_Grenade_-_Karaoke_Scott_Bradlee_&_Postmodern_Jukebox.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Grenade (Karaoke)",
+      "artist": "Scott Bradlee's Postmodern Jukebox",
+      "has_synced": true,
+      "path": "select/05_Grenade_(Karaoke)_Scott_Bradlee's_Postmodern_Jukebox.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Grenade",
+      "artist": "Within Temptation",
+      "has_synced": true,
+      "path": "select/06_Grenade_Within_Temptation.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Grenade",
+      "artist": "Jónsi",
+      "has_synced": false,
+      "path": "select/07_Grenade_Jónsi.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Grenade Jumper",
+      "artist": "Fall Out Boy",
+      "has_synced": true,
+      "path": "select/08_Grenade_Jumper_Fall_Out_Boy.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Grenade",
+      "artist": "Karmin",
+      "has_synced": true,
+      "path": "select/09_Grenade_Karmin.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Hand Grenade Of Antioch",
+      "artist": "Monty Python",
+      "has_synced": true,
+      "path": "select/10_Hand_Grenade_Of_Antioch_Monty_Python.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Hand Grenade Of Antioch (From \"Monty Python And The Holy Grail\" Original Motion Picture Soundtrack)",
+      "artist": "Monty Python",
+      "has_synced": true,
+      "path": "select/11_Hand_Grenade_Of_Antioch_(From__Monty_Python_And_The_Holy_Grail__Original_Motion__Monty_Python.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Dove And Grenade",
+      "artist": "Hollywood Undead",
+      "has_synced": true,
+      "path": "select/12_Dove_And_Grenade_Hollywood_Undead.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Hand Grenade",
+      "artist": "Thousand Foot Krutch",
+      "has_synced": true,
+      "path": "select/13_Hand_Grenade_Thousand_Foot_Krutch.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Slow Grenade",
+      "artist": "Ellie Goulding feat. Lauv",
+      "has_synced": true,
+      "path": "select/14_Slow_Grenade_Ellie_Goulding_feat._Lauv.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Grenade",
+      "artist": "Bruno Mars",
+      "has_synced": false,
+      "path": "select/pl_01_Grenade_Bruno_Mars.txt"
+    }
+  ]
+}
